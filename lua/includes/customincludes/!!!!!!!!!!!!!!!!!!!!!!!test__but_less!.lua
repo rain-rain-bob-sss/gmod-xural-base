@@ -1,0 +1,1 @@
+print('!!!.lua Is Faster(we cant !!!!!!.lua)')
